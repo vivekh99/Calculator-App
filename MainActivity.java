@@ -1,4 +1,4 @@
-package com.example.myfirstapplication;
+package com.example.CalculatorApp;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
